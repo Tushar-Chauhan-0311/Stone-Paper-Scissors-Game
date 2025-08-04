@@ -18,8 +18,8 @@ The computer randomly chooses its move.
 Result is shown instantly with updated score.
 
 🛠️ Technologies Used:
-HTML
-CSS
+HTML,
+CSS,
 JavaScript 
 
 Game Link :- https://rock-paper-scissor13.netlify.app/
