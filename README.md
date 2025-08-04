@@ -19,7 +19,7 @@ Result is shown instantly with updated score.
 
 🛠️ Technologies Used:
 HTML
-
 CSS
-
 JavaScript 
+
+Game Link :- https://rock-paper-scissor13.netlify.app/
